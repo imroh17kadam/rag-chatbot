@@ -1,0 +1,9 @@
+llama-index
+openai
+pypdf
+pandas
+Flask
+transformers
+python-dotenv
+langchain
+PyPDF2
