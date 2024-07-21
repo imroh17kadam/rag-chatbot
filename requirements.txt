@@ -1,13 +1,3 @@
-llama-index
-openai
-pypdf
-pandas
-transformers
-python-dotenv
-PyPDF2
-
-# ============================================
-
 ctransformers==0.2.5
 sentence-transformers==2.2.2
 pinecone-client
